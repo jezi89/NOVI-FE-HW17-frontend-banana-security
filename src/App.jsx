@@ -18,6 +18,7 @@ function App() {
           <Route path="/signin" element={<SignIn />} />
           <Route path="/signup" element={<SignUp />} />
         </Routes>
+          <p>Temp</p>
       </div>
     </>
   );
